@@ -16,6 +16,8 @@ go get github.com/iwittkau/quickserv/cmd/quickserv
 quickserv [-p= port number ] [-d= file path ]
 ``` 
 
+Default port is `8080` and the default path is the current working directory.
+
 
 ## Example 
 
